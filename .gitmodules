@@ -1,0 +1,3 @@
+[submodule "w4com_kicad_common"]
+	path = w4com_kicad_common
+	url = https://github.com/vcanosa/w4com_kicad_common.git
